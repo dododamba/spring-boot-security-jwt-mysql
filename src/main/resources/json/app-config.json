@@ -1,0 +1,31 @@
+{
+	"application": {
+		"security": {
+			"default-password": "tmp@finex2020"
+		},
+		"messages": {
+			"crud": {
+				"fr": {
+					"create": "",
+					"update": "",
+					"delete": "",
+					"read": "",
+					"create-error": "",
+					"read-error": "",
+					"delete-error": "",
+					"update-error": ""
+				},
+				"en": {
+					"create": "",
+					"update": "",
+					"delete": "",
+					"read": "",
+					"create-error": "",
+					"read-error": "",
+					"delete-error": "",
+					 "update-error": ""
+				}
+			}
+		}
+	}
+}
